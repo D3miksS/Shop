@@ -1,0 +1,96 @@
+body
+{
+	min-height: 653px;
+	margin:0;
+	text-align: center;
+	background-color: #3d4246;
+	color:#fff;
+}
+input, select
+{
+	border-radius: 30px;
+	text-align: center;
+	margin:3px;
+	font-size: 16px;
+	background: none;
+	color: #fff;
+}
+select
+{
+	width: 173px;
+	text-align: center;
+}
+header
+{
+	height: 15%;
+	margin:0;
+	background-color: #636363;
+	box-sizing: border-box;
+	padding: 1%;
+}
+#left
+{
+	float:left;
+	width: 20%;
+	height: 85%;
+	background-color: #636363;
+}
+form
+{
+	padding:1%;
+	box-sizing: border-box;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+header form,img
+{
+	float: right;
+}
+h3
+{
+	text-align: center;
+	width: 80%;
+	margin: auto;
+	
+}
+h2
+{
+	margin:auto;
+}
+h1
+{
+	float: left;
+}
+table
+{
+	text-align: center;
+	margin: auto;
+	font-size: 20px;
+}
+td
+{
+	min-width: 79px;
+}
+a
+{
+	text-decoration: none;
+	color:#fff;
+}
+header form
+{
+	font-size: 20px;
+}
+.inp
+{
+	background: #fff;
+	color:#000;
+}
+#zakupiono
+{
+	font-size: 18px;
+	margin-top: 3px;
+}
+input[type="submit"],[type="button"]
+{
+	cursor:pointer;
+}
